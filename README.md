@@ -8,18 +8,18 @@ Companies waste time and resources due to documentation not being accessible eno
 We solve this problem by creating a centralized place for documentation to live that prioritizes easy access from many locations. A place that is empowered by scheduled audits to ensure documents stay updated and accurate, as well as making sure the AI can analyze tickets to see if there are any gaps in technical documents needed.
 
 - **Centralized documentation** with AI-powered retrieval from many locations.
-- **Documentation Audit Agent** — scheduled full audits that flag redundant or
+- **Documentation Audit Agent** - scheduled full audits that flag redundant or
   overlapping docs, outdated information, and docs that haven't been used
   recently, with suggested fixes.
-- **Ticketing Gap Analysis Agent** — parses helpdesk tickets to detect missing
+- **Ticketing Gap Analysis Agent** - parses helpdesk tickets to detect missing
   documentation and suggest needed docs.
-- **L1 ticket assistance** — automatically suggests helpful documents on level 1
+- **L1 ticket assistance** - automatically suggests helpful documents on level 1
   tickets while end-users wait for a response.
-- **Shared AI framework** — both agents pull context (docs + ticket history)
+- **Shared AI framework** - both agents pull context (docs + ticket history)
   from the same sources, so information stays accurate and consistent.
-- **Automated, prioritized reporting** — ticket gap reports and documentation
+- **Automated, prioritized reporting** - ticket gap reports and documentation
   reports, ranked by frequency/impact. No manual review needed.
-- **Scalable core** — new agents for other workflows can be added later without
+- **Scalable core** - new agents for other workflows can be added later without
   intensive redesign.
 
 ## Tech stack
