@@ -97,11 +97,5 @@ CREATE INDEX IF NOT EXISTS idx_tickets_category ON tickets (category);
 
 
 
-SELECT * FROM tickets;                                   -- everything
-SELECT * FROM tickets WHERE status = 'Open';             -- filter to all open tickets
-SELECT * FROM tickets ORDER BY created_at DESC LIMIT 10; -- newest 10 tickets
-SELECT priority, COUNT(*) FROM tickets GROUP BY priority; -- counts per priority
-UPDATE tickets SET status = 'Resolved' WHERE incident_number = 'INC0001001';
-
 
 
