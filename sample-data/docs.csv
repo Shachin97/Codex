@@ -1,0 +1,25 @@
+﻿title,type,body
+Resetting your password,How-to,"1. Go to the self-service password portal.
+2. Enter your username and click 'Forgot password'.
+3. Verify with the code sent to your phone.
+4. Choose a new password with at least 12 characters.
+If you are locked out after 5 attempts, wait 15 minutes or contact the helpdesk."
+Password reset guide,Guide,"If you forgot your password, open the password portal and click 'Forgot password'. You will receive a verification code by text. Enter it and set a new password of at least 12 characters."
+Connecting to the VPN,How-to,"1. Open the Cisco AnyConnect client.
+2. Enter vpn.example.com as the server.
+3. Sign in with your work username and password.
+4. Approve the MFA prompt.
+If you see 'authentication failed', make sure you changed your password recently in the portal, not just on your laptop."
+VPN setup for Windows 11,Guide,"Download secure network client and enter this ""vpn.example.com"""
+Fixing Wi-Fi disconnects,How-to,"1. Forget the 'Corp-WiFi' network and reconnect.
+2. Update the wireless driver from Software Center.
+3. Turn off power saving for the wireless adapter in Device Manager.
+If the problem continues, note the time it disconnects and open a ticket."
+Outlook stuck on 'Loading profile',How-to,"1. Close Outlook completely.
+2. Hold Ctrl and open Outlook to start in safe mode.
+3. If it opens, go to File > Options > Add-ins and disable add-ins.
+4. If it still hangs, create a new mail profile from Control Panel > Mail."
+Requesting new software,Guide,"Open Software Center and search for the application. If it is listed, click Install. If it is not listed, submit a ticket with the software name and business reason. Licensed software needs manager approval."
+Setting up a new laptop,Guide,"Sign in with your work account, connect to Corp-WiFi, and let updates install. Open Software Center to install standard apps. Set up MFA before your first remote day."
+Using the office printers,FAQ,Printers are named by floor (for example PRN-3F). Add a printer from Settings > Printers & scanners. Print jobs are released by tapping your badge on the printer.
+Lotus Notes email setup,Guide,"To configure Lotus Notes, open the Notes client, enter your mail server notes01.example.com and your ID file. Contact IT for your ID file password."
